@@ -1,1 +1,0 @@
-# taketaxi_template
